@@ -13,6 +13,10 @@ Inicialmente se cuenta con información para la descarga de Remesas a nivel esta
 ## Notas
 - El número máximo disponible para consulta son 100 series (para consulta masivo como es el caso de remesas municipales, se sugiere hacer  'splits' del dataframe original).
 
+## APIS disponibles para consulta
+1. Remesas por entidad federativa
+2. Remesas municipales
+
 ## Documentación externa
 
 Para más información tal como límites de consulta y catálogo completo de APIS consultar en:
