@@ -15,7 +15,13 @@ Inicialmente se cuenta con información para la descarga de Remesas a nivel esta
 
 ## APIS disponibles para consulta
 1. Remesas por entidad federativa
+
+![Remesas por entidad](/Ejemplos/rpe.png)
+
 2. Remesas municipales
+
+![Remesas por municipio](/Ejemplos/rpm.png)
+
 
 ## Documentación externa
 
