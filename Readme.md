@@ -25,6 +25,6 @@ Inicialmente se cuenta con información para la descarga de Remesas a nivel esta
 
 ## Documentación externa
 
-Para más información tal como límites de consulta y catálogo completo de APIS consultar en:
+Para más información tal como límites de consulta y catálogo completo de APIS:
 
 - [https://www.banxico.org.mx/SieAPIRest/service/v1/](Banxico)
